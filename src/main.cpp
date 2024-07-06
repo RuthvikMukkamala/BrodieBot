@@ -1,5 +1,4 @@
 #include <iostream>
-#include <benchmark/benchmark.h>
 
 constexpr int factorial(int n) {
     return (n <= 1) ? 1 : (n * factorial(n - 1));
@@ -20,6 +19,6 @@ static void BM_RuntimeFactorial(benchmark::State& state) { for (auto _ : state) 
 
 int main()
 {
-    BENCHMARK(BM_RuntimeFactorial);
-    BENCHMARK_MAIN();
+
+
 }

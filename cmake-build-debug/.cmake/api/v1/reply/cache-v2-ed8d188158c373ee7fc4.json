@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/ruthvikmukkamala/CLionProjects/HFT_Sports_Betting/cmake-build-debug"
+			"value" : "/Users/ruthvikmukkamala/CLionProjects/BrodieBot/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -479,7 +479,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/ruthvikmukkamala/CLionProjects/HFT_Sports_Betting/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/Users/ruthvikmukkamala/CLionProjects/BrodieBot/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -539,7 +539,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/ruthvikmukkamala/CLionProjects/HFT_Sports_Betting"
+			"value" : "/Users/ruthvikmukkamala/CLionProjects/BrodieBot"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -1127,7 +1127,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/ruthvikmukkamala/CLionProjects/HFT_Sports_Betting/cmake-build-debug"
+			"value" : "/Users/ruthvikmukkamala/CLionProjects/BrodieBot/cmake-build-debug"
 		},
 		{
 			"name" : "HFT_Sports_Betting_IS_TOP_LEVEL",
@@ -1151,7 +1151,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/ruthvikmukkamala/CLionProjects/HFT_Sports_Betting"
+			"value" : "/Users/ruthvikmukkamala/CLionProjects/BrodieBot"
 		}
 	],
 	"kind" : "cache",
